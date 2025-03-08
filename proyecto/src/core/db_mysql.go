@@ -6,7 +6,12 @@ import (
     "log"
     "os"
     "strconv"
+<<<<<<< HEAD
     _ "github.com/go-sql-driver/mysql" 
+=======
+
+    _ "github.com/go-sql-driver/mysql" // Importa el driver de MySQL
+>>>>>>> 38898a8ba7fbd5bbf09ea0fbf4f9d96afd59e257
     "github.com/joho/godotenv"
 )
 
